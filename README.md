@@ -1,2 +1,2 @@
-# Thunder Security
-Thunder Security is a multipourpose bot with many features including(Utility, Moderation, Fun, Roles, Welcomer, Games, Vcroles, etc.)
+# Aether Security
+Aether Security is a multipourpose bot with many features including(Antinuke, Automoderation,Utility, Moderation, Music, Fun, Roles, Welcomer, Games, Vcroles, etc.)
